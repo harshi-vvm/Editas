@@ -1,4 +1,4 @@
-# CRISPR Analysis Pipeline  
+# CRISPR RNA-seq Analysis Pipeline for LDLR Gene Editing 
 
 This repository contains Python scripts and workflows I developed during my Co-op at **Editas Medicine** to analyze CRISPR-induced transcript editing outcomes. The codebase is organized into modular folders for clarity.  
 
